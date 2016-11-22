@@ -1,0 +1,34 @@
+{
+  "name": "prettier-printer",
+  "version": "0.0.0",
+  "description": "Highly configurable object pretty-printer for both Node and the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "testloop": "ava --watch"
+  },
+  "keywords": [],
+  "author": "Will Hilton <wmhilton@gmail.com> (http://onename.com/wmhilton)",
+  "license": "Unlicense",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  },
+  "dependencies": {
+    "renderkid": "^2.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmhilton/prettier-printer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmhilton/prettier-printer/issues"
+  },
+  "homepage": "https://github.com/wmhilton/prettier-printer#readme",
+  "maintainers": [],
+  "contributors": [
+    "Will Hilton <wmhilton@gmail.com> (http://onename.com/wmhilton)"
+  ]
+}
